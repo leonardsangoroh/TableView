@@ -5,4 +5,9 @@
 //  Created by Lee Sangoroh on 14/04/2024.
 //
 
-import Foundation
+import UIKit
+
+struct Video {
+    var image: UIImage
+    var title: String
+}
